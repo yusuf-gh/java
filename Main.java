@@ -20,6 +20,6 @@ public class Main {
 
         boolean isActive = false;
 
-
+        System.out.println(num + "\n" + num1 + "\n" + num2 + "\n" + num3 + "\n" + num4 + " \n" + num5 + "\n" + ch + "\n" + username + "\n" + isActive);
     }
 }
